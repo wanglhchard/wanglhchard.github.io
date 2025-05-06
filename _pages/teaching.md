@@ -7,6 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+目前，此页面被假定为是对您课程的静态描述。您可以将其转换为类似于“_projects/”的集合，以便为每门课程都有一个专用页面。
 
-Organize your courses by years, topics, or universities, however you like!
+您可以根据年份、主题或大学等方式来组织您的课程，随心所欲！

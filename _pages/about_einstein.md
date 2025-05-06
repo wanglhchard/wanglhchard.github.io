@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+在这里写你的传记。向世界介绍你自己。链接到你最喜欢的[subreddit]（http://reddit.com）。你也可以放一张照片进去。代码已经在里面了，只要把你的照片命名为“prof_pic. jpg”，然后放在“img/”文件夹里。
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+将您的地址/邮政信箱/其他信息放在您的图片下方。您也可以通过编辑“_pages/about.md”的YAML标题的“配置文件”属性来禁用任何这些元素。编辑“_bibliography/论文. bib”，Jekyll将自动呈现您的[出版物页面]（/al-folio/出版物/）。
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+也可以链接到您的社交媒体连接。此主题设置为使用[字体真棒图标]（https://fontawesome.com/）和[学术图标]（https://jpswalsh.github.io/academicons/），如下所示。添加您的脸书、推特、领英、谷歌学术，或者禁用所有这些。
