@@ -12,6 +12,10 @@ jobs:
         with:
           ref: gh-pages
 
+      - name: Add CNAME files
+        run: |
+          echo "alfblog.moniter.top" > CNAME
+
       - name: Find and Remove </source> Tags
         run: find . -type f -name "*.html" -exec sed -i 's/<\/source>//g' {} +
 
