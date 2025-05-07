@@ -34,6 +34,39 @@ ninja.data = [{
             window.location.href = "/blog/2025/mermaid-example/";
           
         },
+      },{id: "post-chatgpt颜色图片生成器",
+        
+          title: "Chatgpt颜色图片生成器",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ChatGPT%E9%A2%9C%E8%89%B2%E5%9B%BE%E7%89%87%E7%94%9F%E6%88%90%E5%99%A8/";
+          
+        },
+      },{id: "post-chatgpt学习技术",
+        
+          title: "Chatgpt学习技术",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ChatGPT%E5%AD%A6%E4%B9%A0%E6%8A%80%E6%9C%AF/";
+          
+        },
+      },{id: "post-chatgpt提示工程框架",
+        
+          title: "Chatgpt提示工程框架",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/ChatGPT%E6%8F%90%E7%A4%BA%E5%B7%A5%E7%A8%8B%E6%A1%86%E6%9E%B6/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
